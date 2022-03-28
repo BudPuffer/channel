@@ -30,12 +30,12 @@
 (Ha Thats Funny)      #EXTINF:-1 tvg-id="localnow_Ha! That's Funny" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",LN | Ha! That's Funny https://linear-135.frequency.stream/dist/localnow/135/hls/master/playlist.m3u8   
 
 
-
+DELETE THIS LINE************************ https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/Free2ViewTV-2020-Alternate.m3u
 
 
   (***TV SHOWS***)
 (AFV)(Stirr)          #EXTINF:-1 tvg-id="externallinearfeed-06-23-2020-06-23-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/7da0d8e1-dcc7-4b0b-ac2b-6e2d92879c8e-large16x9_STIRR_0721_EPG_AFV_1920x1080.png?1625778764524?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR TV",STIRR | AFV https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
-(AFV)(LN)******************************************
+(AFV)(LN) LEFT OFF HERE******************************************
 (CSI)                 #EXTINF:-1 tvg-id="5efbd29e4aa26700076c0d06" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | CSI http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus  
 (Bob Ross)            #EXTINF:-1 tvg-id="externallinearfeed-04-27-2020-04-27-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/e459b5cc-36aa-4455-980f-2f702d9f06fa-large16x9_STIRR_0721_EPG_BobRoss_1920x1080.png?1625778766353?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR TV",STIRR | The Bob Ross Channel https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 (Johnny Carson)       #EXTINF:-1 tvg-id="localnow_Johnny Carson TV" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",LN | Johnny Carson TV https://johnnycarson-localnow.amagi.tv/playlist.m3u8
