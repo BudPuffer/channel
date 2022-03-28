@@ -1,8 +1,10 @@
 #EXTM3U
 
   (***NEWS***)
-(Newsmax)             #EXTINF:-1 tvg-id="USBA300028QU" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/90/USBA300028QU_20210622T090622.png" group-title="Samsung TV Plus",US | Newsmax TV https://newsmax-samsungus.amagi.tv/playlist.m3u8
-(Real Americas Voice) #EXTINF:-1 tvg-id="USBB1900002KF" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/35/USBB1900002KF_20210525T051433.png" group-title="Samsung TV Plus",US | Real America's Voice https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8?ads.device_did%3D%7BPSID%7D%26ads.device_dnt%3D%7BTARGETOPT%7D%26ads.us_privacy%3D1YNY%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
+(Newsmax)(STVP)       #EXTINF:-1 tvg-id="USBA300028QU" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/90/USBA300028QU_20210622T090622.png" group-title="Samsung TV Plus",US | Newsmax TV https://newsmax-samsungus.amagi.tv/playlist.m3u8
+(Newsmax)(LN)         #EXTINF:-1 tvg-id="localnow_Newsmax" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",LN | Newsmax https://nmxlocalnow.akamaized.net/hls/live/2020471/Live_1/index.m3u8
+(RAV)(STVP)           #EXTINF:-1 tvg-id="USBB1900002KF" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/35/USBB1900002KF_20210525T051433.png" group-title="Samsung TV Plus",US | Real America's Voice https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8?ads.device_did%3D%7BPSID%7D%26ads.device_dnt%3D%7BTARGETOPT%7D%26ads.us_privacy%3D1YNY%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
+(RAV)(LN)             #EXTINF:-1 tvg-id="localnow_OAN Plus" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",LN | OAN Plus https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8
 (KIRO7)               #EXTINF:-1 tvg-id="localnow_KIRO 7 Seattle" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",LN | KIRO 7 Seattle https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kirotv-hls-v3/live.m3u8
 
 
@@ -25,17 +27,18 @@
 (PTV Stories by AMC)  #EXTINF:-1 tvg-id="5e8254118601b80007b4b7ae" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | Pluto TV Stories by AMC http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 (STIRR Movies)        #EXTINF:-1 tvg-id="stirr-movies-wurl-external-10-06-2018" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/9f55fa56-5cb6-468b-b6c9-4db4e0937ff0-large16x9_STIRR_0721_EPG_STIRRMovies_1920x1080.png?1625778768283?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR TV",STIRR | Movies https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 (Comedy Dynamics)     #EXTINF:-1 tvg-id="externallinearfeed-08-01-2019-08-01-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/ab900789-9c91-4a8b-9a51-3299877d5e75-large16x9_STIRR_0721_EPG_ComedyDynamics_1920x1080.png?1625778767600?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR TV",STIRR | Comedy Dynamics https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
-    
+(Ha Thats Funny)      #EXTINF:-1 tvg-id="localnow_Ha! That's Funny" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",LN | Ha! That's Funny https://linear-135.frequency.stream/dist/localnow/135/hls/master/playlist.m3u8   
 
 
 
 
 
   (***TV SHOWS***)
+(AFV)(Stirr)          #EXTINF:-1 tvg-id="externallinearfeed-06-23-2020-06-23-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/7da0d8e1-dcc7-4b0b-ac2b-6e2d92879c8e-large16x9_STIRR_0721_EPG_AFV_1920x1080.png?1625778764524?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR TV",STIRR | AFV https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
+(AFV)(LN)******************************************
 (CSI)                 #EXTINF:-1 tvg-id="5efbd29e4aa26700076c0d06" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | CSI http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus  
 (Bob Ross)            #EXTINF:-1 tvg-id="externallinearfeed-04-27-2020-04-27-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/e459b5cc-36aa-4455-980f-2f702d9f06fa-large16x9_STIRR_0721_EPG_BobRoss_1920x1080.png?1625778766353?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR TV",STIRR | The Bob Ross Channel https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
-(AFV)                 #EXTINF:-1 tvg-id="externallinearfeed-06-23-2020-06-23-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/7da0d8e1-dcc7-4b0b-ac2b-6e2d92879c8e-large16x9_STIRR_0721_EPG_AFV_1920x1080.png?1625778764524?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR TV",STIRR | AFV https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
-
+(Johnny Carson)       #EXTINF:-1 tvg-id="localnow_Johnny Carson TV" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",LN | Johnny Carson TV https://johnnycarson-localnow.amagi.tv/playlist.m3u8
 
 
 
