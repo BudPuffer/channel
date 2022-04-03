@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
   (***NEWS***)
-(Newsmax)(STVP)       #EXTINF:-1 tvg-id="USBA300028QU" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/90/USBA300028QU_20210622T090622.png" group-title="Samsung TV Plus",US | Newsmax TV 
+(Newsmax)(STVP)       #EXTINF:-1 tvg-id="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/90/USBA300028QU_20210622T090622.png" group-title="Samsung TV Plus",US | Newsmax TV 
                       https://newsmax-samsungus.amagi.tv/playlist.m3u8
 (Newsmax)(LN)         #EXTINF:-1 tvg-id="localnow_Newsmax" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",LN | Newsmax 
                       https://nmxlocalnow.akamaized.net/hls/live/2020471/Live_1/index.m3u8
