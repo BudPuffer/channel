@@ -1,48 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Info | Free2View TV",** Completely Revised for 2022 **
-https://od.lk/s/MF8yMjk4MTkzODdf/Free2ViewTV-Slide1_v6_210220.mp4?1A
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Info | Free2View TV",** Info | Free2View TV **
-https://od.lk/s/MF8yMjk4MTkzODdf/Free2ViewTV-Slide1_v6_210220.mp4?1B
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Info | Free2View TV",** LATEST INFO & REMOTE LINKS go to https://thefrugalstreamer.blogspot.com/p/free2viewtvpage1.html or google 'Free2View TV' **
-https://od.lk/s/MF8yMjk4MTkzODdf/Free2ViewTV-Slide1_v6_210220.mp4?1C2
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Info | Free2View TV",** Our Social Places: Facebook Group 'We Are Streamers on a Budget' | Discord https://discord.gg/C48WhSTpw7 | email Free2ViewTVCanada@gmail.com **
-https://od.lk/s/MF8yMjk4MTkzODdf/Free2ViewTV-Slide1_v6_210220.mp4?1D
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",** EPG Sources Below: ** Be sure to select the 'Download at each update' option in the settings! **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?2
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",** Several categories use a mix of many of the EPG sources below. For optimum performance it is recommended that you set up all of the available EPG sources. Please note also that many of the new EPG sources were updated recently so be sure to update your settings accordingly. **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?2A
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[1] https://cutt.ly/CAN_EPG1
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?3
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",DISCONTINUED (2/07/22) [2] https://i.mjh.nz/PBS/all.xml 
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?4
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",NEW! (02/13/22) [2] https://cutt.ly/EPG_FLO_32789
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?4B
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",DISCONTINUED (2/03/22) [3] https://cutt.ly/EPG_KCK_66101
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?5
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[4] https://cutt.ly/EPG_NYC_10001_OTA
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?6
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[5] https://i.mjh.nz/Plex/all.xml 
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?7
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[6] https://i.mjh.nz/Stirr/all.xml 
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[7] https://cutt.ly/DSr95Combinedepg
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?9
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[8] https://i.mjh.nz/SamsungTVPlus/all.xml 
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?10
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[9] https://i.mjh.nz/PlutoTV/all.xml 
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?11
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[10] https://cutt.ly/EPG_WNY_13601_DTV
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?12
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",DISCONTINUED (1/07/22) [11] https://cutt.ly/LocalNowepg
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?13
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",NEW! (01/19/22) [12] https://cutt.ly/EPG_MLD_21117
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?14
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDA3OTIxOTdf/BuyMeACoffee_400x400.png" group-title="Info | Free2View TV",** Support Us! Buy Me A Coffee? ** https://www.buymeacoffee.com/7gtLduXqV
-https://od.lk/s/MF8yMjk4MTkzOTJf/F2VTV_BuyMeACoffee_v4.mp4?BMC1
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDA3OTIxOTdf/BuyMeACoffee_400x400.png" group-title="Info | Free2View TV",https://www.buymeacoffee.com/7gtLduXqV
-https://od.lk/s/MF8yMjk4MTkzOTJf/F2VTV_BuyMeACoffee_v4.mp4?BMC2
-
 #EXTINF:-1 tvg-id="USBA300028QU" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/90/USBA300028QU_20210622T090622.png" group-title="Samsung TV Plus",US | Newsmax TV https://newsmax-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="USBB1900002KF" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/35/USBB1900002KF_20210525T051433.png" group-title="Samsung TV Plus",US | Real America's Voice https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8?ads.device_did%3D%7BPSID%7D%26ads.device_dnt%3D%7BTARGETOPT%7D%26ads.us_privacy%3D1YNY%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="KlowdTV_EPGInfoWars" tvg-name="Infowars" tvg-logo="https://od.lk/s/MF8yNjA3Nzc4NjZf/KlowdTV_300x300.png" group-title="Klowd TV",Infowars * https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/infowars_source/playlist.m3u8
