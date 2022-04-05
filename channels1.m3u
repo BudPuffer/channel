@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9wd4ds5v31zyxr5"
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz"
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Q13 Fox" tvg-logo="https://images.squarespace-cdn.com/content/v1/54eceac4e4b012d8652a4be4/1596468093802-ETC5NGKUBZZNBLEZ7Q8B/ke17ZwdGBToddI8pDm48kHIBt815fTjufW5zhOkM_uBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpypR9wApmA1WAGJjAiyIFN6AKPld8e_uQeCie-lAtC4K4thL7jvkx63sP80dbOwtyo/Q13+Fox" group-title="News + Opinion",Q13 Fox
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KCPQ-Monetizer.m3u8
 #EXTINF:-1 tvg-id="55b179af994403942f3061d6" tvg-name="Newsmax" tvg-logo="https://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png" group-title="News + Opinion",Newsmax
