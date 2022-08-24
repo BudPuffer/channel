@@ -1,5 +1,3 @@
-https://raw.githubusercontent.com/BudPuffer/channel/main/channels1.m3u
-
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz"
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Root Sports" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11062/s11062_h3_aa.png"
 https://list.iptvcat.com/my_list/s/a8c22f01490cf8c801de70d9d4b6b609.m3u8
