@@ -81,21 +81,3 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/601a0342dcf43700075668
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6022bd17849c620007f43ae0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,US| MLB Network 4K+
 http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/15970
-#EXTINF:-1,Adult Swim
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/adult.swim.east.us.m3u8
-#EXTINF:-1,Boomerang
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/boomerang.us.m3u8
-#EXTINF:-1,Cooking Channel US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/the.cooking.channel.us.m3u8
-#EXTINF:-1,InfoWars
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/infowars.us.m3u8
-#EXTINF:-1,Nicktoons US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nicktoons.east.us.m3u8
-#EXTINF:-1,USA: Fail Army
-http://forma.fantacalcio2122.xyz:25461/228bksyf015/rZcghWSyaF/132124
-#EXTINF:-1,US : CW (KSTW) TACOMA WASHINGTON
-http://mains.services:2086/A.Jones01/1904550/90378
-#EXTINF:-1,US : FOX (KCPQ -Seattle WA)
-http://mains.services:2086/A.Jones01/1904550/90385
-#EXTINF:-1,US : MLB SEATTLE MARINERS
-http://mains.services:2086/A.Jones01/1904550/501
