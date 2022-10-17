@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz,https://i.mjh.nz/SamsungTVPlus/us.xml.gz"
-#EXTINF:-1 tvg-id="KCPQDT1.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/KCPQ_(2021).svg" group-title="Undefined",FOX13
+#EXTINF:-1 tvg-id="KCPQDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Fts-seattle-a.svg/1920px-Fts-seattle-a.svg.png" group-title="Undefined",FOX13
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KCPQ-Monetizer.m3u8
 #EXTINF:-1 channel-id="pluto-5e7cf6c7b156d500078c5f44" tvg-id="5e7cf6c7b156d500078c5f44" tvg-chno="475" tvg-logo="https://images.pluto.tv/channels/5e7cf6c7b156d500078c5f44/colorLogoPNG.png" group-title="News + Opinion",OAN Plus
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e7cf6c7b156d500078c5f44/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
